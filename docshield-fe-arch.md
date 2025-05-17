@@ -1,7 +1,5 @@
 # DocShield Application Architecture Diagrams
 
-Based on my analysis of the codebase, I've created several diagrams to help visualize how the DocShield application works, showing the connections between the UI components and backend services.
-
 ## 1. User Flow Diagram
 
 This diagram shows the user journey through the application:
